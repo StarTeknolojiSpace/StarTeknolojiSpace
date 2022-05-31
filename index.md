@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+![5077109](https://user-images.githubusercontent.com/93947784/171271248-e61ae4e9-8b53-461d-a158-6328ed569a45.png) 
+## StarTeknoloji  
 
-You can use the [editor on GitHub](https://github.com/StarTeknolojiSpace/www.StarTeknoloji.Space/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# WELCOME 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###  Teknoloji geliştirme
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-#  SAYISAL   
-## SÖZEL
-### Header 3
+#    
+## 
+### 
 
 - Bulleted
 - List
@@ -21,7 +15,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
@@ -34,4 +28,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ercetinguler@starteknoloji.space  
