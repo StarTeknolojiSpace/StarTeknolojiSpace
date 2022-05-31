@@ -1,16 +1,18 @@
 ![5077109](https://user-images.githubusercontent.com/93947784/171271248-e61ae4e9-8b53-461d-a158-6328ed569a45.png) 
 ## StarTeknoloji  
-# WELCOME 
-###  Teknoloji geliştirme
-#    
+# WELCOME   ...      
+###  Teknoloji geliştirme  
+Görüşlerinizi bekleriz.  
+#       
 ## 
 ### 
 - Bulleted
 - List
 1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text 
-[Link](url) and ![Image](src)
+2. List   
+[www.starteknoloji.space]     
+
+**B  
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
