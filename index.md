@@ -1,6 +1,6 @@
-![5077109](https://user-images.githubusercontent.com/93947784/171271248-e61ae4e9-8b53-461d-a158-6328ed569a45.png) 
-## StarTeknoloji  
-# WELCOME   ...      
+  ![5077109](https://user-images.githubusercontent.com/93947784/171271248-e61ae4e9-8b53-461d-a158-6328ed569a45.png) 
+# HOŞGELDİNİZ.....   
+## StarTeknoloji.space  
 ###     
 
 #       
