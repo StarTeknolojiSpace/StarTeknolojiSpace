@@ -13,5 +13,14 @@ Bu durumda, referanstan şu şekilde kaçabilirsiniz: \[foo].
 
 Seçenekler: Object, isteğe bağlı.
 
-Nesne, ve arasında görünebilecek allowbir dizi diziye ayarlanmış bir alana sahip olabilir , ancak bu, bağlantı tanımlayıcıları olarak ele alınmamalıdır .
-[]
+Nesne, ve arasında görünebilecek allowbir dizi diziye ayarlanmış bir alana sahip olabilir 
+
+uğu kaldır. Başlıkların içeriği girintili olduğunda uyar.  
+#   [no-heading-content-indent] Bu başlığın içeriğinden önceki 2 boşluğu kaldır.
+remark-stringify
+başlıklardaki içeriğin etrafındaki gereksiz tüm dolguları kaldırır.
+
+Bu kural için uyarıları otomatik olarak nasıl düzelteceğinize ilişkin Markdown'ınızı düzeltmek için açıklamayı kullanma konusuna bakı
+#   [no-heading-content-indent] Bu başlığın içeriğinden önceki 1 boşluğu kaldır
+Başlıkların içeriği girintili olduğunda uyar.
+#   [no-heading-content-indent] Bu başlığın içeriğinden sonraki 4 boşluğu kaldır
