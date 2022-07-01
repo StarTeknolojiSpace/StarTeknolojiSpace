@@ -8,3 +8,8 @@
 Kural Kimliği
 açıklama-lint-no-heading-content-indent
  
+Düzeltmek
+remark-stringify
+başlıklardaki içeriğin etrafındaki gereksiz tüm dolguları kaldırır.
+
+Bu kural için uyarıları otomatik olarak nasıl düzelteceğinize ilişkin Markdown'ınızı düzeltmek için açıklamayı kullanma konusuna bakın .
