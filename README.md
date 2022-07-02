@@ -2,6 +2,6 @@
 
 # www.StarTeknoloji.Space  
                                      
-# Projelerimi gerçekleştirmek ve Online  şirketimizi geliştirmek amaçımız.                                                                                                                
+# Projelerimi gerçekleştirmek ve Online  şirketimi geliştirmek                                                                                                               
 # ercetinguler@starteknoloji.space    
   
