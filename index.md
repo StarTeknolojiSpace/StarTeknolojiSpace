@@ -16,7 +16,10 @@
 ####  Uygulama Geliştirici     
 
 ## StudioHardware     
-#### Teknik Servis Bakım    
+#### Teknik Servis Bakım 
+
+## 8.pazar
+#### Toptan satış online pazar. Toptan malı olan tezgah açabilir bitincede bırakabilir. 8.pazar 'da tezgah açmak çok basittir.                                    
 
 
 
