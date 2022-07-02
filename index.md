@@ -1,7 +1,8 @@
   ![5077109](https://user-images.githubusercontent.com/93947784/171271248-e61ae4e9-8b53-461d-a158-6328ed569a45.png) 
-# HOŞGELDİNİZ.....   
+# Projeler 
 ## StarTeknoloji.space  
-###     
+## Sanal Fabrika    
+   ### Dünya'nın her yerinde olunabilir fabrikanız hazır bir şekilde kullanıma hazır hale getirmek için özel uygulamarımızla satışını almak. Makinalarımız, elemanlarımız, ve ucuz fiyatlarımız ile kuracağınız sanal fabrikamız en iyi kalitede üretim. Online olarak üretime hazır hale getirilebilecek, siparişiniz bir siparişiniz için tasarlanacaktır.            
 
 #       
 ## 
