@@ -2,7 +2,9 @@
 
 # www.StarTeknoloji.Space  
 # ##HOŞGELDİNİZ##                                    
-#    Projelerimi gerçekleştirmek v  e Online  şirketimizi geliştirmek amaçımız.                                                                                                                 
-# Daha gelişmiş teknolojiler üretmek için 
-# ercetinguler@starteknoloji.space
+# Projelerimi gerçekleştirmek ve Online  şirketimizi geliştirmek amaçımız.                                                                                                                 
+# Dünya'nın her neresinde olursanız olun sanal fabrikanız yanınızda istediğiniz her an ürünün üretimi, dağıtımı özel uygulamarımızla  ürünlerin talimatını almak. Makinalarımız, elemanlarımız, ve ucuz fiyatlarımız ile kuracağınız sanal fabrikamız en iyi kalitede üretim yapmaktadır. Online olarak üretim yaptırabilecek siparişiniz tamamlanıp teslim edildikten sonra bir sonraki siparişiniz için görüşmek üzere.
+
+
+# ercetinguler@starteknoloji.space    
   
