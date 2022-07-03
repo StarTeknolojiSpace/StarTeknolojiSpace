@@ -1,4 +1,4 @@
-  ![5077109](https://user-images.githubusercontent.com/93947784/171271248-e61ae4e9-8b53-461d-a158-6328ed569a45.png) 
+  ![5077109_transparent](https://user-images.githubusercontent.com/93947784/177056154-ca867bc8-a38f-4601-bbb7-3e4af53791a9.png)
   ![github sponsor](https://user-images.githubusercontent.com/93947784/177056023-dec9bbc8-e045-46b0-a524-041f3ec45466.png)
 # PROJELER    
 ## StarTeknoloji.space  
