@@ -33,7 +33,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact          
 
-### ercetin@starteknoloji.space 
+### ercetinguler@codesexe.com
 ### +90 0507 236 39 28    
 ### +90 0288 318 33 40
             
