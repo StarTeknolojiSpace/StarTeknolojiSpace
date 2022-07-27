@@ -1,6 +1,7 @@
   ![5077109_transparent](https://user-images.githubusercontent.com/93947784/177056154-ca867bc8-a38f-4601-bbb7-3e4af53791a9.png)
   ![github sponsor](https://user-images.githubusercontent.com/93947784/177056023-dec9bbc8-e045-46b0-a524-041f3ec45466.png)
-# PROJELERE ALGORİTMA    
+# PROJELERE ALGORİTMA  ![logo](https://user-images.githubusercontent.com/93947784/181236183-20644b2d-7206-46d3-9e96-379e753527b9.png)
+  
 ## StarTeknoloji.space  
 
 ## Sanal Fabrika  
